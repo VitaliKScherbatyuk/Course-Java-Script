@@ -1,4 +1,4 @@
-# Java-Script-Study
+# Tasks for the study programs Java Script:
 
 Java-Script: educational topics
 
